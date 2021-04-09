@@ -7,3 +7,4 @@ V Beta: Game site: https://bossbattlegame.tiiny.site/
 V 1.0: Game enhancement
 V 1.1: Site enhancement
 V 1.2: Game update
+V 1.3: Added a llittle bit of realism.
