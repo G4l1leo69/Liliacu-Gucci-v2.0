@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int P1=20, Bss=50, d1=9, d2=4, f, d;
+    int P1=20, Bss=50, d1=11, d2=4, f, d;
     cout<<"Thanks for opening the game, here: original file link github.com/G4l1leo69/Liliacu-Gucci-v2.0 and game site bossbattlegame.tiiny.site/"<<endl;
     cout<<" "<<endl;
     cout<<" "<<endl;
