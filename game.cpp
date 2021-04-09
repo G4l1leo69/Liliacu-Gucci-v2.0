@@ -62,6 +62,7 @@ int main()
         cout<<"Thanks for playing"<<endl;
         cout<<"Shutting down"<<endl;
         cout<<"1%"<<endl;
+        cout<<"6%"<<endl;
         cout<<"12%"<<endl;
         cout<<"19%"<<endl;
         cout<<"28%"<<endl;
